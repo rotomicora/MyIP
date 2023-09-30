@@ -1,7 +1,6 @@
 # MyIP
 **Simple programa que muestra tu IP, país, y tu código de país con la API de [myip.com](https://myip.com)**
 
-<p><img src="https://user-images.githubusercontent.com/48841069/212543043-a08e0787-0049-4d01-bcbc-736724c45333.png" height="400px" alt="myip"></p>
 
 # Code
 
