@@ -7,7 +7,7 @@ ip = iprequest["ip"] # Definimos la variable ip con el valor de la IP que nos de
 country = iprequest["country"] # Definimos la variable country con el valor del pais que nos devuelve la API
 cc = iprequest["cc"] # Definimos la variable cc con el valor del codigo del pais que nos devuelve la API
 
-os.system("title franafp - MyIP") # Definimos el titulo de la consola
+os.system("title MyIP") # Definimos el titulo de la consola
 while True: # Creamos un bucle infinito al pulsar cualquier tecla para refrescarlo infinitamente
     os.system("cls") # Limpiamos la consola
     Write.Print(f"[MyIP] User: {os.getlogin()}\n", Colors.green_to_yellow, interval=0.02) # Mostramos el usuario del sistema operativo
